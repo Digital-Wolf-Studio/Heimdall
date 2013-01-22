@@ -1,6 +1,4 @@
 --------------------------------------------------------------------------------
-Heimdall (c) 2010-2012 Benjamin Dobell, Glass Echidna
-http://www.glassechidna.com.au/products/heimdall/
 
 DISCLAIMER:
 
@@ -8,7 +6,7 @@ DISCLAIMER:
     flashing is dangerous. As with all flashing software, Heimdall has the
     potential to damage (brick) your phone if not used carefully. If you're
     concerned, don't use this software. Flashing ROMs onto your phone may also
-    void your warranty. Benjamin Dobell and Glass Echidna are not responsible
+    void your warranty. Digital Wolf Studio is not responsible
     for the result of your actions.
 
 --------------------------------------------------------------------------------
@@ -25,3 +23,9 @@ appropriate platform specific README:
 - Windows
   Win32/README.txt
 
+--------------------------------------------------------------------------------
+Additional Notes:
+
+Original unmoddified code:
+Heimdall (c) 2010-2012 Benjamin Dobell, Glass Echidna
+http://www.glassechidna.com.au/products/heimdall/
